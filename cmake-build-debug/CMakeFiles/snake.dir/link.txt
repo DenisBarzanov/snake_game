@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/snake.dir/game.c.o CMakeFiles/snake.dir/utils/game_utils.c.o CMakeFiles/snake.dir/map.c.o CMakeFiles/snake.dir/snake.c.o CMakeFiles/snake.dir/gfx/gfx.c.o  -o snake -lX11 
